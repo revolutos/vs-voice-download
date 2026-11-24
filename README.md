@@ -1,6 +1,6 @@
 <p align="center"><a href="https://vikitor.de"><img src="bilder/hero.png" alt="VS VOICE von VIKITOR: Sprechen statt tippen auf dem Mac" width="100%"></a></p>
 
-<p align="center"><a href="https://github.com/revolutos/vs-voice-download/releases/latest/download/VS-VOICE.dmg"><img src="bilder/download.png" alt="VS VOICE für Mac herunterladen" width="380"></a></p>
+<p align="center"><a href="https://vikitor.de/downloads/voice/?q=github"><img src="bilder/download.png" alt="VS VOICE für Mac herunterladen" width="380"></a></p>
 
 <p align="center">Kostenlose Beta · 35 MB · Mac mit Apple-Chip (M1 oder neuer) · ab macOS 15</p>
 
@@ -55,7 +55,7 @@ Du startest Diktat und Gedanken über die Menüleiste oder Kurzbefehle. Ab macOS
 
 <a href="https://vikitor.de"><img src="bilder/vikitor.png" alt="VIKITOR, die KI-Marke von Viktor Siemens: vikitor.de entdecken" width="100%"></a>
 
-<p align="center"><a href="https://vikitor.de"><b>vikitor.de</b></a> · <a href="https://vikitor.de/downloads/">Weitere kostenlose Werkzeuge</a> · <a href="https://vikitor.de/live/">Live dabei sein</a></p>
+<p align="center"><a href="https://vikitor.de"><b>vikitor.de</b></a> · <a href="https://vikitor.de/downloads/">Weitere kostenlose Werkzeuge</a> · <a href="https://vikitor.de/live/aufzeichnung/vibecoding-3-0/">Live-Workshop als Aufzeichnung</a></p>
 
 ---
 
